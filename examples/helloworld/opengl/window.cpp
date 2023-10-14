@@ -102,10 +102,10 @@ void Window::onPaintUI() {
     }
 
     // Window begin
-    ImGui::Begin("Hello! This is a Dear ImGui window desu");
+    ImGui::Begin("Hello! This is a Dear ImGui window");
 
     // Static text
-    ImGui::Text("Some example widgets are given below desu.");
+    ImGui::Text("Some example widgets are given below.");
 
     // Combo box
     {
